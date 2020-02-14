@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test:e2e": "run cypress open"
+    "test": "cypress open"
   },
   "devDependencies": {
     "cypress": "^4.0.1"

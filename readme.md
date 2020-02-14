@@ -8,7 +8,7 @@ yarn Install
 
 ## Run Cypress tests
 ```
-yarn test:e2e
+yarn test
 ```
 This command opens the Cypress UI from which you can choose tests to run
 
