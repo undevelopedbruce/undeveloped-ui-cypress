@@ -1,18 +1,18 @@
-#Undeveloped Bruce Cypress Examples For Funs
+# Undeveloped Bruce Cypress Examples For Funs
 This repo uses Yarn as a package manager.
 
-##Setup / Install Packages
+## Setup / Install Packages
 ```
 yarn Install
 ```
 
-##Run Cypress tests
+## Run Cypress tests
 ```
 yarn test:e2e
 ```
 This command opens the Cypress UI from which you can choose tests to run
 
-##Acceptance Criteria
+## Acceptance Criteria
 It's not the most interactive site in the world, so just a few basic bits:
 1. Site content loads
 2. Site navigation works
