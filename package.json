@@ -1,0 +1,15 @@
+{
+  "name": "undeveloped-ui-cypress",
+  "version": "1.0.0",
+  "description": "example Cypress UI tests for undevelopedbruce",
+  "main": "index.js",
+  "author": "UndevelopedBruce",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test:e2e": "run cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}
